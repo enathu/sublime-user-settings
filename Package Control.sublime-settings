@@ -1,0 +1,17 @@
+{
+	"auto_upgrade_last_run": 1349283244,
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"CoffeeScript",
+		"ColorPicker",
+		"HTML5",
+		"LESS",
+		"Markdown Preview",
+		"Package Control",
+		"sublime-github",
+		"Terminal",
+		"Wordpress",
+		"ZenCoding"
+	]
+}
